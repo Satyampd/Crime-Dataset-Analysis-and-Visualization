@@ -26,5 +26,4 @@ Another important thing is to be noted that, the Literacy and Population data is
 Bonus Point: This notebook is made using Plotly library, you can zoom-in the graph, hover the point using the mouse to see detailed information in the cartesian plane and last 3D plot can be rotated 360 using mouse and hovering over the Scatter point will show you multiple information with that particular point.
 
 
-*** To see the visualizations, please click on 'Open in Colab'. 
-Or follow this: https://colab.research.google.com/drive/1fogbFovjVDPjSTUUxVl5tMwmgrrkKFFT 
+*** To see the visualization and Analysis(It can take upto 7-10 minutes to load): https://crimes-dataset-satyampd.herokuapp.com/
