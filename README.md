@@ -37,5 +37,6 @@ planeand last 3D plot can be rotated 360 using mouse and hovering over the Scatt
 point will show you multiple information with that particular point**
 
 
-*** To see the visualization and Analysis(It can take upto 7-10 minutes to load): https://crimes-dataset-satyampd.herokuapp.com/
+To see the visualization and Analysis(It can take upto 7-10 minutes to load): https://crimes-dataset-satyampd.herokuapp.com/
+
 Colab Notebook Link: https://colab.research.google.com/drive/1FA_o_SPJj_j9IuSIijYN-pY6lgqiob_2?usp=sharing
