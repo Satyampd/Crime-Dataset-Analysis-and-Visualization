@@ -1,7 +1,7 @@
-# Crimes-Against-Women-in-India-2001-to-2014
+# Crimes Against Women in India from 2001-to-2014
 
 
-Hey there, in this notebook, I tried to visualize the Crimes Against Women using the available dataset.
+Hey there, in this notebook, I tried to visualize and analyse Crimes Against Women using the available data.
 
 **In this notebook you will be able to see some insight with regards to crimes that happened against women between the year 2002 and 2014. For instance,**
 1. **A graph with total number of crimes VS Years**
