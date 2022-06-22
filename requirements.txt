@@ -3,5 +3,5 @@ seaborn==0.10.1
 pandas==1.0.3
 streamlit==0.61.0
 matplotlib==3.2.1
-numpy==1.19.0
+numpy==1.22.0
 scikit_learn==0.23.1
